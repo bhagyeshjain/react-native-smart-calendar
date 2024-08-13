@@ -1,0 +1,16 @@
+{
+  "name": "react-native-smart-calendar",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+
+  },
+  "license": "MIT"
+
+}
